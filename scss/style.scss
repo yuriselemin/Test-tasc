@@ -403,6 +403,7 @@ a {
     text-decoration: none;
 }
 
+
 // HEADER ----------------------------------------------
 
 .header-ul-piter {
@@ -520,3 +521,113 @@ a {
 
 // NAV ------------------------------------------------
 
+.nav-ul-logo {
+    position: absolute;
+    width: 64px;
+    height: 73px;
+    left: 120px;
+    top: 16px;
+}
+
+.nav-ul-expert_3d {
+    position: absolute;
+    width: 133px;
+    height: 36px;
+    left: 200px;
+    top: 34px;
+    font-family: Open Sans;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    // display: flex;
+    align-items: center;
+    color: #000000;
+
+}
+
+.span_3d {
+    color: red;
+}
+
+.nav-div-yndlock {
+    position: absolute;
+    width: 105px;
+    height: 60px;
+    left: 365px;
+    top: 22px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;
+}
+
+.nav-div-ynimg {
+    position: absolute;
+    width: 81px;
+    height: 50px;
+    left: 12px;
+    top: 5px;
+}
+
+.nav-form-inp_search {
+    position: absolute;
+    width: 521px;
+    height: 44px;
+    left: 502px;
+    top: 30px;
+    background: #FFFFFF;
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+input {
+    border:none;
+}
+
+::-webkit-input-placeholder {color:#9E9E9E; opacity:1;}
+::-moz-placeholder          {color:#9E9E9E; opacity:1;}
+:-moz-placeholder           {color:#9E9E9E; opacity:1;}
+:-ms-input-placeholder      {color:#9E9E9E; opacity:1;}
+
+.nav-form-inp_text {
+    position: absolute;
+    width: 290px;
+    height: 18px;
+    left: 16px;
+    top: 11px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+    color: #BDBDBD;
+}
+
+.nav-form-divbut {
+    position: absolute;
+    width: 75px;
+    height: 36px;
+    left: 441px;
+    top: 3px;
+    border: 2px solid #D2001C;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+}
+
+.nav-form-inp_button {
+    position: absolute;
+    width: 50px;
+    height: 18px;
+    left: 9px;
+    top: 7px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 0px;
+    text-align: center;
+    background-color: white;
+    color: #D2001C;
+}
