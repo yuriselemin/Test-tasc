@@ -5,7 +5,10 @@
 @import url("fonts/SFProDisplay/stylesheet.css");
 @import url("fonts/OpenSans/stylesheet.css");
 
+
+
 // reset.css  ----------------------------------------
+
 
 
 html, body, div, span, applet, object, iframe,
@@ -656,4 +659,431 @@ input {
     line-height: 10px;
     background-color: white;
     color: #222222;
+}
+
+.nav-div-bask_button {
+    position: absolute;
+    width: 160px;
+    height: 36px;
+    left: 1160px;
+    top: 34px;
+
+    background: #D2001C;
+    border-radius: 4px;
+}
+
+.nav-div-bask_bask {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 16px;
+    top: 6px;
+}
+
+.nav-div-bask_entr_bask {
+    position: absolute;
+    width: 96px;
+    height: 18px;
+    left: 48px;
+    top: 9px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.nav-ul-action {
+    position: absolute;
+    width: 40px;
+    height: 18px;
+    left: 124px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-about_us {
+    position: absolute;
+    width: 36px;
+    height: 18px;
+    left: 228px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-events {
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 328px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-payment {
+    position: absolute;
+    width: 118px;
+    height: 18px;
+    left: 480px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-question {
+    position: absolute;
+    width: 132px;
+    height: 18px;
+    left: 662px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-gos_purchases {
+    position: absolute;
+    width: 78px;
+    height: 18px;
+    left: 858px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-blog {
+    position: absolute;
+    width: 29px;
+    height: 18px;
+    left: 1000px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-masster_class {
+    position: absolute;
+    width: 95px;
+    height: 18px;
+    left: 1093px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-contacts {
+    position: absolute;
+    width: 61px;
+    height: 18px;
+    left: 1252px;
+    top: 102px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-div-rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 1px;
+    left: 0px;
+    top: 142px;
+    background: #BDBDBD;
+    opacity: 0.35;
+}
+
+.nav-ul-bold_3dprint {
+    position: absolute;
+    width: 91px;
+    height: 18px;
+    left: 124px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-bold_3dscan {
+    position: absolute;
+    width: 80px;
+    height: 18px;
+    left: 245px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.nav-ul-bold_stanki {
+    position: absolute;
+    width: 50px;
+    height: 18px;
+    left: 355px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-ul-bold_robot {
+    position: absolute;
+    width: 51px;
+    height: 18px;
+    left: 435px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-ul-bold_obr {
+    position: absolute;
+    width: 92px;
+    height: 18px;
+    left: 516px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+
+}
+
+.nav-ul-bold_stomat {
+    position: absolute;
+    width: 100px;
+    height: 18px;
+    left: 638px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-ul-bold_gadget {
+    position: absolute;
+    width: 62px;
+    height: 18px;
+    left: 768px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-ul-bold_mat {
+    position: absolute;
+    width: 80px;
+    height: 18px;
+    left: 860px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+
+}
+
+.nav-ul-bold_po {
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    left: 970px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-ul-bold_reshen {
+    position: absolute;
+    width: 62px;
+    height: 18px;
+    left: 1021px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-ul-bold_uchcentr {
+    position: absolute;
+    width: 106px;
+    height: 18px;
+    left: 1113px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-ul-bold_uslugi {
+    position: absolute;
+    width: 47px;
+    height: 18px;
+    left: 1249px;
+    top: 164px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.nav-bold-vector {
+    position: absolute;
+    top: 164px;
+}
+
+.v1 {
+    left: 220.24px;
+}
+
+.v2 {
+    left: 330.24px;
+}
+
+.v3 {
+    left: 410.24px;
+}
+
+.v4 {
+    left: 491.24px;
+}
+
+.v5 {
+    left: 613.24px;
+}
+
+.v6 {
+    left: 743.24px;
+}
+
+.v7 {
+    left: 835.24px;
+}
+
+.v8 {
+    left: 945.24px;
+}
+
+.v9 {
+    left: 996.24px;
+}
+
+.v10 {
+    left: 1088.24px;
+}
+
+.v11 {
+    left: 1224.24px;
+}
+
+.v12 {
+    left: 1301.24px;
+}
+
+.section-team {
+    position: absolute;
+    width: 1228px;
+    height: 430.88px;
+    left: 154px;
+    top: 318.56px;
+}
+
+.text-3d {
+    position: absolute;
+    width: 708px;
+    height: 208px;
+    left: 674px;
+    top: 800px;
+    font-family: 'SF Pro Text', arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+    letter-spacing: -0.07px;
+    color: #4D4D4D;
 }
