@@ -409,13 +409,17 @@ a {
 
 // HEADER ----------------------------------------------
 
+.header-ul {
+    
+}
+
 .header-ul-piter {
     position: absolute;
     width: 111px;
     height: 18px;
     left: 120px;
     top: 7px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -429,7 +433,7 @@ a {
     height: 18px;
     left: 271px;
     top: 7px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -453,7 +457,7 @@ a {
     height: 18px;
     left: 400px;
     top: 7px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -467,7 +471,7 @@ a {
     height: 18px;
     left: 895px;
     top: 7px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -482,7 +486,7 @@ a {
     height: 18px;
     left: 1030px;
     top: 7px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -524,6 +528,10 @@ a {
 
 // NAV ------------------------------------------------
 
+.nav-ul {
+
+}
+
 .nav-ul-logo {
     position: absolute;
     width: 64px;
@@ -538,7 +546,7 @@ a {
     height: 36px;
     left: 200px;
     top: 34px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: italic;
     font-weight: 400;
     font-size: 13px;
@@ -599,7 +607,7 @@ input {
     height: 18px;
     left: 16px;
     top: 11px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -625,7 +633,7 @@ input {
     height: 18px;
     left: 9px;
     top: 7px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -652,7 +660,7 @@ input {
     padding-left: 0px;
     padding-right: 0px;
     top: 43px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -686,7 +694,7 @@ input {
     height: 18px;
     left: 48px;
     top: 9px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
@@ -701,7 +709,7 @@ input {
     height: 18px;
     left: 124px;
     top: 102px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
@@ -715,7 +723,7 @@ input {
     height: 18px;
     left: 228px;
     top: 102px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
@@ -729,7 +737,7 @@ input {
     height: 18px;
     left: 328px;
     top: 102px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
@@ -743,7 +751,7 @@ input {
     height: 18px;
     left: 480px;
     top: 102px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
@@ -757,7 +765,7 @@ input {
     height: 18px;
     left: 662px;
     top: 102px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
@@ -771,7 +779,7 @@ input {
     height: 18px;
     left: 858px;
     top: 102px;
-    font-family: Open Sans;
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
@@ -1080,7 +1088,7 @@ input {
     left: 674px;
     top: 800px;
 
-    font-family: 'SF Pro Display';
+    font-family: 'SF Pro Text';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -1090,3 +1098,175 @@ input {
 
     color: #4D4D4D;
 }
+
+.span-print_awards {
+    color: red;
+    text-decoration: underline;
+
+}
+
+.div-your_work {
+    position: absolute;
+    width: 333px;
+    height: 96px;
+    left: 154px;
+    top: 800px;
+}
+
+.div-your_work_text {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.div-button_resume {
+    position: absolute;
+    height: 44px;
+    width: 280px;
+    left: 154px;
+    top: 936px;
+    background: #D2001C;
+    border-radius: 4px;
+
+}
+
+.div-button_text {
+    position: absolute;
+    height: 20px;
+    width: 248px;
+    left: 16px;
+    top: 12px;
+    border-radius: 0px;
+    position: absolute;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: inline;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.7px;
+    
+}
+
+.div-button_text-a {
+    color: #FFFFFF;
+}
+
+.div-button_warning {
+    position: relative;
+    height: 34px;
+    width: 280px;
+    left: 154px;
+    top: 1000px;
+    border-radius: 0px;
+    
+}
+
+.div-text_warning {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    display: inline;
+    align-items: center;
+    letter-spacing: -0.7px;
+    color: #C4C4C4;
+}
+
+.div-media_menu_headtext {
+    position: absolute;
+    width: 290px;
+    height: 29px;
+    left: 154px;
+    top: 1104px;
+    margin: 0px;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.7px;
+    color: #222222;
+
+}
+
+.div-media_line {
+    position: absolute;
+    width: 916px;
+    height: 0px;
+    left: 466px;
+    top: 1122px;
+    opacity: 0.1;
+    border: 1px solid #000000;
+    opacity: 10%;
+
+}
+
+.div-media_arrang {
+    position: absolute;
+    width: 268px;
+    height: 19px;
+    left: 154px;
+    top: 1183px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #D2001C;
+}
+
+.div-media_create {
+    position: absolute;
+    width: 343px;
+    height: 19px;
+    left: 570px;
+    top: 1183px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #4D4D4D;
+}
+
+.div-media_read {
+    position: absolute;
+    width: 171px;
+    height: 19px;
+    left: 1090px;
+    top: 1183px;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-decoration: underline;
+    color: #4D4D4D;
+
+}
+
+.div-media-vector_v1 {
+    position: absolute;
+    width: 7px;
+    height: 10px;
+    left: 441px;
+    top: 1189px;
+
+}
+
+
+

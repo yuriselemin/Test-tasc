@@ -1,0 +1,14 @@
+
+
+
+
+
+
+@font-face {
+    
+    font-family: 'SF Pro Text';
+    src: url('FontsFree-Net-SFProText-Medium.woff') format('woff'),
+         url('FontsFree-Net-SFProText-Medium.ttf') format('truetype');    
+    font-weight: 500;
+    font-style: normal;
+}
