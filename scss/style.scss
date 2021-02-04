@@ -366,6 +366,15 @@ textarea {
     resize: vertical;
 }
 
+ul {
+     list-style: none; 
+}
+
+li {
+    list-style-type: none;
+    
+  }
+
 .chromeframe {
     margin: 0.2em 0;
     background: #ccc;
@@ -379,7 +388,7 @@ body {
     position: relative;
     width: 1536px;
     height: 1927px;
-
+    margin: 0px;
     background: #FFFFFF;
 }
 
@@ -1248,7 +1257,7 @@ input {
     height: 19px;
     left: 1090px;
     top: 1183px;
-    font-family: SF Pro Display;
+    font-family: 'SF Pro Display';
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -1265,8 +1274,98 @@ input {
     height: 10px;
     left: 441px;
     top: 1189px;
+    
+}
+
+.div-media-vector_v1:hover {
+    transform: rotate(90deg);
+}
+
+.div-media-vector_v2 {
+    position: absolute;
+    width: 7px;
+    height: 10px;
+    left: 932px;
+    top: 1190px;
+    
+}
+
+.div-media-vector_v2:hover {
+    transform: rotate(90deg);
 
 }
 
+.div-media-vector_v3 {
+    position: absolute;
+    width: 7px;
+    height: 10px;
+    left: 1280px;
+    top: 1190px;
+
+}
+
+.div-media-vector_v3:hover {
+    transform: rotate(90deg);
+
+}
+
+.div-video_container {
+    position: absolute;
+    width: 1448px;
+    height: 550px;
+    left: 46px;
+    top: 1272px;
+    background: #F9F9F9;
+}
+
+.div-video_headtext {
+    position: absolute;
+    width: 192px;
+    height: 43px;
+    left: 137px;
+    top: 70px;
+    margin: 0px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    color: #222222;
+}
+
+.div-video_li1 {
+    position: absolute;
+    width: 40px;
+    height: 39px;
+    left: 1273px;
+    top: 72px;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+}
+
+// .test {
+//     width: 100px;
+//     height: 100px;
+//     background-color: #D2001C;
+// }
+
+.div-video-img_1 {
+    position: absolute;
+    width: 548.81px;
+    height: 319.55px;
+    left: 137px;
+    top: 167.06px;
+    background: url(image.png);
+}
+
+.div-video-img_2 {
+    position: absolute;
+    width: 556.77px;
+    height: 322.76px;
+    left: 753.42px;
+    top: 168.25px;
+    background: url(image.png);
+}
 
 
