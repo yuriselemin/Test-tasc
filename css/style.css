@@ -1176,3 +1176,33 @@ input {
   left: 753.42px;
   top: 168.25px;
   background: url(image.png); }
+
+.div-video-img_v1 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  left: 1227px;
+  top: 72px;
+  box-sizing: border-box; }
+
+.div-video-img_v2 {
+  position: absolute;
+  width: 40px;
+  height: 39px;
+  left: 1266px;
+  top: 72px;
+  box-sizing: border-box; }
+
+.div-video-vector5 {
+  position: absolute;
+  width: 9px;
+  height: 17px;
+  left: 1240px;
+  top: 83px; }
+
+.div-video-vector6 {
+  position: absolute;
+  width: 9px;
+  height: 17px;
+  left: 1282px;
+  top: 83px; }
