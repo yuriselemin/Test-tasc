@@ -326,7 +326,7 @@ li {
   color: #000;
   padding: 0.2em 0; }
 
-body {
+.container {
   position: relative;
   width: 1536px;
   height: 1927px;

@@ -384,12 +384,21 @@ li {
 
 // SECTION ---------------------------------------------
 
-body {
+// body {
+//     position: relative;
+//     width: 1536px;
+//     height: 1927px;
+//     margin: 0px;
+//     background: #FFFFFF;
+// }
+
+.container {
     position: relative;
     width: 1536px;
     height: 1927px;
     margin: 0px;
     background: #FFFFFF;
+
 }
 
 header {
